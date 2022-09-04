@@ -1,0 +1,15 @@
+body {
+  padding: 20px;
+  margin: 30px;
+}
+button {
+  margin-top: 20px;
+  line-height: 60px;
+  font-weight: bold;
+  padding: 0 40px;
+  background: blueviolet;
+  border: none;
+}
+button:hover {
+  background: gray;
+}
